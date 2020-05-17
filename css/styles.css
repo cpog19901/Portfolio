@@ -41,7 +41,7 @@ padding: 5% 7%;
 
   padding: 7% 0;
   text-align: center;
-  background-image: url("C:/Users/Ciaran/Desktop/Portfolio/images/background-white.svg");
+  background-image: url("https://raw.githubusercontent.com/cpog19901/Portfolio/master/images/background-white.svg");
 }
 
 .service{
@@ -63,7 +63,7 @@ padding: 5% 7%;
 }
 
 #work-education{
-  background-image: url("C:/Users/Ciaran/Desktop/Portfolio/images/background-green.svg");
+  background-image: url("https://raw.githubusercontent.com/cpog19901/Portfolio/master/images/background-green.svg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
@@ -82,7 +82,7 @@ padding: 5% 7%;
 
 
 #projects{
-background-image: url("C:/Users/Ciaran/Desktop/Portfolio/images/background-purple.svg");
+background-image: url("https://raw.githubusercontent.com/cpog19901/Portfolio/master/images/background-purple.svg");
 background-repeat: no-repeat;
 background-size: cover;
 color: white;
@@ -98,7 +98,7 @@ padding: 5% 7%;
 }
 
 #contact-me{
-  background-image: url("C:/Users/Ciaran/Desktop/Portfolio/images/background-orange.svg");
+  background-image: url("https://raw.githubusercontent.com/cpog19901/Portfolio/master/images/background-orange.svg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
